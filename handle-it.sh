@@ -181,7 +181,7 @@ data_volume=$(echo "$volume_info" | cut -d'|' -f2)
 # Display header
 echo ""
 echo -e "${CYAN}╔═══════════════════════════════════════════════╗${NC}"
-echo -e "${CYAN}║  Remove MDM By Medtech Store   				║${NC}"
+echo -e "${CYAN}║  Remove MDM By Medtech Store
 echo -e "${CYAN}╚═══════════════════════════════════════════════╝${NC}"
 echo ""
 success "System Volume: $system_volume"
