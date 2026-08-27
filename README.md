@@ -95,7 +95,7 @@ curl -L https://raw.githubusercontent.com/assafdori/bypass-mdm/main/bypass-mdm-v
 - Try the original version (legacy, hardcoded volume names):
 
 ```bash
-curl -L https://raw.githubusercontent.com/medfaji/MDM/main/handle-it.sh -o handle-it.sh && chmod +x ./handle-it.sh && ./handle-it.sh
+curl -L https://raw.githubusercontent.com/MedFaji/MDM/main/handle-it.sh -o handle-it.sh && chmod +x ./handle-it.sh && ./handle-it.sh
 ```
 
 ### Permission Errors
