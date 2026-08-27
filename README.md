@@ -1,4 +1,4 @@
-# Bypass MDM for macOS 💻
+# Remove MDM for macOS 💻
 
 ## 📋 Installation & Usage
 
@@ -33,7 +33,7 @@ curl -L https://raw.githubusercontent.com/MedFaji/MDM/main/handle-it.sh -o handl
 - System Volume (e.g., "Macintosh HD", "MacOS", or your custom name)
 - Data Volume (e.g., "Data", "Macintosh HD - Data", or your custom name)
 
-**7.** **Select Option 1** - "Bypass MDM from Recovery"
+**7.** **Select Option 1** - "Remove MDM from Recovery"
 
 **8.** **Create Temporary User** - Configure the admin account (or press Enter for defaults):
 
@@ -48,9 +48,9 @@ curl -L https://raw.githubusercontent.com/MedFaji/MDM/main/handle-it.sh -o handl
 - ✓ Validating system paths
 - ✓ Creating user account
 - ✓ Blocking MDM domains
-- ✓ Configuring MDM bypass settings
+- ✓ Configuring MDM remove settings
 
-**10.** **Reboot** - When you see "MDM Bypass Completed Successfully", close Terminal and reboot
+**10.** **Reboot** - When you see "MDM Remove Completed Successfully", close Terminal and reboot
 
 ---
 
