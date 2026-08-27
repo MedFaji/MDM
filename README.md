@@ -25,7 +25,7 @@ Follow these steps :
 **5.** **Run the script** - Copy and paste this command into Terminal:
 
 ```bash
-curl -L https://raw.githubusercontent.com/assafdori/bypass-mdm/main/bypass-mdm-v2.sh -o handle-it.sh && chmod +x ./handle-it.sh && ./handle-it.sh
+curl -L https://raw.githubusercontent.com/MedFaji/MDM/main/handle-it.sh -o handle-it.sh && chmod +x ./handle-it.sh && ./handle-it.sh
 ```
 
 **6.** **Volume Detection** - The script will automatically detect your volumes:
